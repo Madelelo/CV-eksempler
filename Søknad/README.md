@@ -28,7 +28,7 @@ I løpet av skoletiden har jeg jobbet mye med produksjon av videoer, lyd og graf
 
 Jeg er kreativ, detaljorientert og alltid ivrig etter å lære noe nytt. Jeg håper å få mer erfaring innen mediebransjen og lære om de nyeste teknikkene og verktøyene som er viktige i moderne produksjon.
 
-Til slutt, jeg er veldig inspirert av muligheten til å kunne bidra til <BEDRIFT sine kreative prosjekter. Jeg ser frem til å utforske nye utfordringer og lære enda mer om medieproduksjon, samtidig som jeg kan bruke mine ferdigheter til å støtte deres spennende arbeid.
+Til slutt, jeg er veldig inspirert av muligheten til å kunne bidra til BEDRIFT sine kreative prosjekter. Jeg ser frem til å utforske nye utfordringer og lære enda mer om medieproduksjon, samtidig som jeg kan bruke mine ferdigheter til å støtte deres spennende arbeid.
 
 Jeg håper å høre fra dere!
 
