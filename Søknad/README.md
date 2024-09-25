@@ -14,13 +14,16 @@ Som person er jeg strukturert, lærevillig og nysgjerrig. Jeg er flink til å fi
 Jeg har praksisuke i uke 46, og er tilgjengelig for en samtale på telefon eller et intervju dersom det er behov for det. Jeg ser frem til å høre fra dere, og håper på en positiv tilbakemelding.
 
 Med vennlig hilsen,
+
 NAVN
+
 NUMMER
+
 EPOST
 
+---
 ## MP
 **Emne: Søknad om praksisplass i uke 46**
-
 
 Jeg heter NAVN og er elev ved Elvebakken videregående skole. Jeg går på linjen for medieproduksjon, der jeg har spesialisert meg innen innholdsproduksjon. Jeg valgte denne linjen fordi jeg synes det er spennende å formidle historier gjennom visuelle medier og skape innhold som engasjerer. BEDRIFT virker som en veldig interessant bedrift fordi dere jobber med ulike typer medieproduksjon, og jeg er nysgjerrig på hele prosessen fra idé til ferdig produkt.
 
@@ -33,6 +36,9 @@ Til slutt, jeg er veldig inspirert av muligheten til å kunne bidra til <BEDRIFT
 Jeg håper å høre fra dere!
 
 Med vennlig hilsen,
+
 NAVN
+
 NUMMER
+
 EPOST
