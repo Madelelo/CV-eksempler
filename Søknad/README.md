@@ -13,12 +13,9 @@ Som person er jeg strukturert, lærevillig og nysgjerrig. Jeg er flink til å fi
 
 Jeg har praksisuke i uke 46, og er tilgjengelig for en samtale på telefon eller et intervju dersom det er behov for det. Jeg ser frem til å høre fra dere, og håper på en positiv tilbakemelding.
 
-Med vennlig hilsen,
-
-NAVN
-
-NUMMER
-
+Med vennlig hilsen,\
+NAVN\
+NUMMER\
 EPOST
 
 ---
@@ -35,10 +32,7 @@ Til slutt, jeg er veldig inspirert av muligheten til å kunne bidra til <BEDRIFT
 
 Jeg håper å høre fra dere!
 
-Med vennlig hilsen,
-
-NAVN
-
-NUMMER
-
+Med vennlig hilsen,\
+NAVN\
+NUMMER\
 EPOST
